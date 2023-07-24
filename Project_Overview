@@ -1,0 +1,13 @@
+In this project, I have created two virtual machines running Windows Server 2019, both connected to the same private network within Hyper-V. The primary objective was to establish an Active Directory domain and configure essential services to demonstrate centralized user management and network authentication.
+
+Key Features:
+
+Hyper-V Virtual Machines: The repository contains configuration files and virtual hard disks for setting up two Windows Server 2019 virtual machines using Hyper-V.
+
+Active Directory Domain Setup: I have established an Active Directory domain, creating a centralized directory service to manage users, groups, and computers in the network.
+
+Domain Controller: One of the virtual machines is configured as the domain controller, responsible for authenticating and authorizing users and managing domain policies.
+
+Active Directory Users and Groups: The repository includes documentation on setting up user accounts and groups, showcasing the capabilities of Active Directory in organizing and managing users' access.
+
+Group Policy Configuration: I have implemented Group Policy settings to control various aspects of the domain environment, such as password policies and security configurations.
